@@ -1,0 +1,3 @@
+﻿  sp_9.cpp
+C:\Users\aleks\OneDrive\Рабочий стол\Обучение в коллледже\3 курс\sp_9\sp_9.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sp_9.vcxproj -> C:\Users\aleks\OneDrive\Рабочий стол\Обучение в коллледже\3 курс\sp_9\x64\Debug\sp_9.exe
